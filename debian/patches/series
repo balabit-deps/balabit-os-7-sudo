@@ -5,3 +5,4 @@ keep_home_by_default.patch
 CVE-2019-14287.patch
 CVE-2019-14287-2.patch
 CVE-2019-18634.patch
+0001-In-pty_close-close-the-slave-and-remove-any-events-a.patch
